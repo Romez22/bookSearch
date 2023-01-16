@@ -94,7 +94,7 @@ export default defineComponent({
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   margin-left: 5px;
-
+  padding: 4px;
 
 }
 
